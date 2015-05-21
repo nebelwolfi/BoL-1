@@ -11,10 +11,21 @@
 		debug fixed
 
 	5.904
-		Smite released
-		fixed timer bug in Revealer
+		Smite:
+			>> initial release 5.901
+		
+		Revealer:
+			>>fixed timer bug
 
 	5.905
-		removed an extra delay
-		forgot to change version number. now everthing is working like a charm :)
+		General:
+			>>forgot to change version number. now everthing is working like a charm :)
+
+		Smite 5.901 >> 5.902:
+			>>removed an extra delay
+
+	5.906
+		Smite 5.902 >> 5.903:
+			>>loading error fixed
+			
 --]]
