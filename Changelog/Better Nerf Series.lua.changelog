@@ -13,4 +13,8 @@
 	5.904
 		Smite released
 		fixed timer bug in Revealer
+
+	5.905
+		removed an extra delay
+		forgot to change version number. now everthing is working like a charm :)
 --]]
