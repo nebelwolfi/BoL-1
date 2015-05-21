@@ -27,5 +27,9 @@
 	5.906
 		Smite 5.902 >> 5.903:
 			>>loading error fixed
-			
+
+	5.907
+		Smite 5.903 >> 5.904
+			>>fixed "no static 'SupportedSpells' in class 'Smite'" error
+
 --]]
